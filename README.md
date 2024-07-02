@@ -1,7 +1,7 @@
 # <p align="center">ChromeGaming Formation-Absent</p>
 
 ![formation](https://github.com/ChromeGaming/Formation-Absent/assets/133582566/ccac5005-45f4-40db-8528-ca17619c4314)
-
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
 
 <div id="top"></div>
@@ -16,7 +16,7 @@
 - [How to make a PR in a Project](how-to-make-a-pr-in-a-project)
 - [Alternatively Using GitHub Desktop](#alternatively-using-github-desktop)
   <br>
-
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
 
 # About Our Project 💻
@@ -39,12 +39,14 @@
   <img src="https://img.shields.io/github/contributors/GameSphere-MultiPlayer/Formation-Absent?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/GameSphere-MultiPlayer/Formation-Absent?style=for-the-badge" />
   </div>
-  
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  
+
 # Overview
 
 <a a="overview"></a>
   Formation Absent is a turn-based puzzle game that simulates a battle between two armies. In each of the 13 stages, the player takes control of the Green army and must restore their lost battle formation by strategically moving units across the battlefield. The objective is to reorganize the Green army's units in order to defeat the opposing force. The game presents an abstract representation of a military conflict, challenging the player to think tactically and make decisions that will lead their side to victory.
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  
 ## Technology Used
 
 <a name="tech-stack"></a>
@@ -62,22 +64,40 @@
 
 ### Frontend Technologies
 <a front="frontend-technologies"></a>
-  - HTML
-  - CSS
-  - JavaScript
-  - Bootstrap
-  - jQuery
+ <!-- HTML5 -->
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo">
+
+<!-- CSS3 -->
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo">
+
+<!-- JavaScript -->
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo">
+
+<!-- Bootstrap -->
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo">
+
+<!-- jQuery -->
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery logo">
 
 ### Backend Technologies
 <a d="backend-technologie"></a>
- - Laravel (PHP framework)
- - MySQL (database)
- - PHP
+ <!-- Laravel -->
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel logo">
+
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo">
+
+<!-- PHP -->
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo">
+
 ### Real-Time Communication
 <a e="real-time-communication"></a>
- - WebSocket
+ <!-- WebSocket -->
+<img src="https://img.shields.io/badge/websocket-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket logo">
+
 </p>
  <p align="right">(<a href="#top">back to top</a>)</p>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # How to make a PR in a Project 🟢
 <a g="how-to-make-a-pr-in-a-project"></a>
@@ -131,7 +151,8 @@ To push your changes, run the following command in your terminal:
 
 9. Create a PR.
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  
 ## Alternatively Using GitHub Desktop
 <a r="alternatively-using-github-desktop"></a>
 
@@ -157,6 +178,7 @@ The best way to learn is to do.<br>
  Happy Contributions !! 
 
  <hr>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- Open Source Programs -->
   <div>
@@ -165,10 +187,13 @@ The best way to learn is to do.<br>
 
  This project is part of GirlScript Summer of Code. We enthusiastically welcome community contributions.Your active involvement is vital to our success!
 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  
 ![Community](https://github.com/GameSphere-MultiPlayer/Physi-c-Tech/assets/98798977/e79af9da-814e-487e-8a9a-85947384d3b2)
 
 <hr>
-
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  
 <!-- Code of conduct -->
 <div>
 <h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Code of Conduct</h2>
@@ -177,7 +202,8 @@ The best way to learn is to do.<br>
 Please note that this project is released with a [Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 <hr>
-
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  
 <!-- License -->
 
 <div>
@@ -189,7 +215,8 @@ Please note that this project is released with a [Contributor Code of Conduct](.
 This project is licensed under the [MIT License](./LICENSE).
 
 <hr>
-
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  
  <!-- Cotributors -->
 
 <div>
